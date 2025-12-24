@@ -1,22 +1,22 @@
 ---
 ## Entity Relationship Diagram
-![ER Diagram]()
+![ER Diagram](https://github.com/Arkojyoti27Dey/Sales_Analysis_Project_Complete/blob/main/final%20erd.png)
 ## 📸 Dashboard Preview
 
 ### 1. Home Page
-![Home Page](path/to/screenshot1.png)
+![Home Page](https://github.com/Arkojyoti27Dey/Sales_Analysis_Project_Complete/blob/main/screenshots%20of%20dashboard/1.png)
 
 ### 2. Analytics Page 1
-![Analytics View 1](path/to/screenshot2.png)
+![Analytics View 1](https://github.com/Arkojyoti27Dey/Sales_Analysis_Project_Complete/blob/main/screenshots%20of%20dashboard/2.png)
 
 ### 3. Analytics Page 2
-![Analytics View 2](path/to/screenshot3.png)
+![Analytics View 2](https://github.com/Arkojyoti27Dey/Sales_Analysis_Project_Complete/blob/main/screenshots%20of%20dashboard/3.png)
 
 ### 4. Analytics Page 3
-![Analytics View 3](path/to/screenshot4.png)
+![Analytics View 3](https://github.com/Arkojyoti27Dey/Sales_Analysis_Project_Complete/blob/main/screenshots%20of%20dashboard/4.png)
 
-### 5. Slicer View / ER Diagram
-![Additional View](path/to/screenshot5.png)
+### 5. Slicer View 
+![Additional View](https://github.com/Arkojyoti27Dey/Sales_Analysis_Project_Complete/blob/main/screenshots%20of%20dashboard/5.png)
 
 ---
 
@@ -56,3 +56,4 @@ This project involves a comprehensive analysis of regional sales data. The workf
 
 
 *Created by [ARKOJYOTI DEY]*
+
