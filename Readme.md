@@ -1,3 +1,25 @@
+---
+## Entity Relationship Diagram
+![ER Diagram]()
+## 📸 Dashboard Preview
+
+### 1. Home Page
+![Home Page](path/to/screenshot1.png)
+
+### 2. Analytics Page 1
+![Analytics View 1](path/to/screenshot2.png)
+
+### 3. Analytics Page 2
+![Analytics View 2](path/to/screenshot3.png)
+
+### 4. Analytics Page 3
+![Analytics View 3](path/to/screenshot4.png)
+
+### 5. Slicer View / ER Diagram
+![Additional View](path/to/screenshot5.png)
+
+---
+
 # Regional Sales Analysis & Dashboard
 
 ## 📌 Project Overview
@@ -31,22 +53,6 @@ This project involves a comprehensive analysis of regional sales data. The workf
 
 ---
 
-## 📸 Dashboard Preview
 
-### 1. Home Page
-![Home Page](path/to/screenshot1.png)
 
-### 2. Analytics Page 1
-![Analytics View 1](path/to/screenshot2.png)
-
-### 3. Analytics Page 2
-![Analytics View 2](path/to/screenshot3.png)
-
-### 4. Analytics Page 3
-![Analytics View 3](path/to/screenshot4.png)
-
-### 5. Slicer View / ER Diagram
-![Additional View](path/to/screenshot5.png)
-
----
-*Created by [Your Name]*
+*Created by [ARKOJYOTI DEY]*
