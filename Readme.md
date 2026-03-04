@@ -1,5 +1,6 @@
 ---
 ## Entity Relationship Diagram
+![ER Diagram Hand Drwan](https://github.com/Arkojyoti27Dey/Sales_Analysis_Project_Complete/blob/main/screenshots%20of%20dashboard/er%20diagram%20hand%20drwan.png)
 ![ER Diagram](https://github.com/Arkojyoti27Dey/Sales_Analysis_Project_Complete/blob/main/final%20erd.png)
 ## 📸 Dashboard Preview
 
@@ -56,4 +57,5 @@ This project involves a comprehensive analysis of regional sales data. The workf
 
 
 *Created by [ARKOJYOTI DEY]*
+
 
